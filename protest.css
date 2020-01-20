@@ -1,0 +1,48 @@
+body{
+	background:url(https://images.unsplash.com/photo-1485504750689-aa2121ffe6c6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=60);
+	background-size:cover;
+	background-position:center;
+	background-repeat:no-repeat; 
+	color:white;
+	font-family:bangers;
+}
+ #content{
+ 	text-align: center;
+ 	padding-top: 20%;
+ }
+ 	     		
+ html{
+ 	height: 100%;
+ }
+ hr{
+ 	width:400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.5);
+ }
+ h1{
+      font-weight: 400px;
+      font-size: 4em;
+      font-family: Gayathr;
+  }
+.vote{
+ 	font-family: Indie Flower;
+ }
+ .wiki{
+ font-family: Lato;
+ }
+ .heart{
+ 	color: red;
+ }
+ h1,h3{
+ 	text-shadow:1px 1px 2px black,
+ 	            1px 2px 2px white,
+ 	            2px 3px 4px black;
+ }
+ #more{
+ 	border-left:4px solid #afe401;
+ 	font-family: source code pro;
+ 	line-height:1;
+ }
+ span{
+ 	text-decoration:underline;
+ }
